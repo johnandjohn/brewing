@@ -1,2 +1,2 @@
 # J & J Brewing
-Artwork and more.
+Original beer by John Carpenter and John Taylor.
