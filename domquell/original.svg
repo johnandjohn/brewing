@@ -202,8 +202,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1409259"
-     inkscape:cx="275.07318"
-     inkscape:cy="536.00579"
+     inkscape:cx="403.61599"
+     inkscape:cy="621.79814"
      inkscape:document-units="mm"
      inkscape:current-layer="g3148"
      showgrid="false"
@@ -271,7 +271,12 @@
            y="113.08559"
            x="32.034069"
            id="tspan4070-8"
-           sodipodi:role="line">Type</tspan></text>
+           sodipodi:role="line">Domquell</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#803300;font-family:Accanthis ADF Std;-inkscape-font-specification:Accanthis ADF Std"
+           y="125.58559"
+           x="32.034069"
+           sodipodi:role="line"
+           id="tspan3051">Kölsch</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text4072-4"
@@ -306,7 +311,7 @@
            sodipodi:role="line"
            id="tspan4082-6"
            x="198.57027"
-           y="275.59735">L'Ancienne</tspan><tspan
+           y="275.59735">SansTitre</tspan><tspan
            sodipodi:role="line"
            x="198.57027"
            y="325.59735"
