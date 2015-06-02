@@ -1,0 +1,63 @@
+digraph procedure {
+	size="7,10"; //in inches
+
+	node [shape=oval];
+	
+	ingredient;
+	process [shape=box];
+	
+	# Ingredients
+	water;
+	malt [label="cracked grain"];
+	mixture;
+	mash;
+	additional_water [label="water"];
+	sweet_wort [label="sweet wort"];
+	yeast;
+	bitter_wort [label="bitter wort"];
+	yeast_culture [label="pitched yeast"];
+	beer;
+	ready [label="ready beer"];
+	
+	# Processes
+	steep [shape=box];
+	lauter [shape=box];
+	extract_a_bit [shape=box, label="extract some"];
+	boil [shape=box];
+	cool [shape=box];
+	add [shape=box, label="mix"];
+	extract_speise [shape=box, label="extract speise (2:25)"];
+	extract_quick [shape=box, label="extract test probe"];
+	fermentation [shape=box];
+	mix [shape=box];
+	continued_fermentation [shape=box, label="continued fermentation and carbonisation"];
+	bottle[shape=box];
+
+	# Edges
+	water->mixture;
+	malt->mixture;
+	mixture->steep;
+	steep->mash;
+	mash->lauter;
+	additional_water->lauter;
+	lauter->sweet_wort
+	sweet_wort->extract_a_bit;
+	yeast->extract_a_bit;
+	extract_a_bit->yeast_culture;
+	sweet_wort->boil;
+	hops->boil;
+	boil->bitter_wort
+	bitter_wort->cool;
+	cool->extract_speise;
+	cool->add;
+	yeast_culture->add;
+	add->extract_quick;
+	add->fermentation;
+	extract_speise->speise;
+	fermentation->beer;
+	beer->mix;
+	speise->mix;
+	mix->bottle;
+	bottle->continued_fermentation;
+	continued_fermentation->ready;
+}
