@@ -255,7 +255,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1409259"
-     inkscape:cx="344.67147"
+     inkscape:cx="346.42443"
      inkscape:cy="521.32454"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -292,7 +292,7 @@
        sodipodi:cy="493.82458"
        sodipodi:rx="53.246227"
        sodipodi:ry="93.564362"
-       d="m -28.923878,493.82458 a 53.246227,93.564362 0 1 1 -106.492452,0 53.246227,93.564362 0 1 1 106.492452,0 z"
+       d="m -28.923878,493.82458 c 0,51.67417 -23.839148,93.56437 -53.246227,93.56437 -29.407075,0 -53.246225,-41.8902 -53.246225,-93.56437 0,-51.67417 23.83915,-93.56436 53.246225,-93.56436 29.407079,0 53.246227,41.89019 53.246227,93.56436 z"
        transform="matrix(0.76875182,0,0,0.72194258,445.49095,185.23988)"
        clip-path="url(#clipPath4309)" />
     <text
@@ -355,7 +355,7 @@
          y="646.90863"
          x="380.38263"
          sodipodi:role="line"
-         id="tspan4455">Wit Man's Brew</tspan><tspan
+         id="tspan4455">Wit's Brew</tspan><tspan
          y="696.90863"
          x="380.38263"
          sodipodi:role="line"
