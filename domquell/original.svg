@@ -14,7 +14,7 @@
    height="1052.3622"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.48.2 r9819"
    sodipodi:docname="original.svg"
    inkscape:export-filename="/home/jodersky/biere.png"
    inkscape:export-xdpi="90"
@@ -254,17 +254,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1409259"
-     inkscape:cx="346.42443"
-     inkscape:cy="521.32454"
+     inkscape:zoom="1.3866126"
+     inkscape:cx="241.35119"
+     inkscape:cy="532.74102"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-global="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1033"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      units="mm" />
   <metadata
@@ -286,14 +286,14 @@
      transform="translate(0,-2.5390623e-6)">
     <path
        sodipodi:type="arc"
-       style="fill:#803300;stroke:none;fill-opacity:1"
+       style="fill:#0775a1;fill-opacity:1;stroke:none"
        id="path3496"
        sodipodi:cx="-82.170105"
        sodipodi:cy="493.82458"
        sodipodi:rx="53.246227"
        sodipodi:ry="93.564362"
-       d="m -28.923878,493.82458 c 0,51.67417 -23.839148,93.56437 -53.246227,93.56437 -29.407075,0 -53.246225,-41.8902 -53.246225,-93.56437 0,-51.67417 23.83915,-93.56436 53.246225,-93.56436 29.407079,0 53.246227,41.89019 53.246227,93.56436 z"
-       transform="matrix(0.76875182,0,0,0.72194258,445.49095,185.23988)"
+       d="m -28.923878,493.82458 a 53.246227,93.564362 0 1 1 -106.492452,0 53.246227,93.564362 0 1 1 106.492452,0 z"
+       transform="matrix(0.97839075,0,0,0.91881661,461.84919,100.1954)"
        clip-path="url(#clipPath4309)" />
     <text
        xml:space="preserve"
@@ -314,16 +314,16 @@
     <text
        sodipodi:linespacing="125%"
        id="text4064-8"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#803300;fill-opacity:1;stroke:none;font-family:Accanthis ADF Std No2;-inkscape-font-specification:Accanthis ADF Std No2"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0775a1;fill-opacity:1;stroke:none;font-family:Accanthis ADF Std No2;-inkscape-font-specification:Accanthis ADF Std No2"
        xml:space="preserve"
        transform="translate(-172.08406,43.38262)"><textPath
          xlink:href="#path4056-5"
          startOffset="50%"
          id="textPath3815"
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Accanthis ADF Std;-inkscape-font-specification:Accanthis ADF Std">John &amp; John</textPath></text>
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Copperplate Gothic Light;-inkscape-font-specification:Copperplate Gothic Light;fill:#0775a1;fill-opacity:1">John &amp; John</textPath></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#803300;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0775a1;fill-opacity:1;stroke:none;font-family:Sans"
        x="213.83641"
        y="739.27228"
        id="text4072-4"
@@ -332,15 +332,15 @@
          id="tspan4074-4"
          x="213.83641"
          y="739.27228"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#803300;font-family:Accanthis ADF Std;-inkscape-font-specification:Accanthis ADF Std">Mise en bouteille: 2015-</tspan></text>
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#0775a1;font-family:Copperplate Gothic Light;-inkscape-font-specification:Copperplate Gothic Light">BoTTLED ON: 2015-</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4076-2"
        y="738.89203"
        x="544.67706"
-       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#803300;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0775a1;fill-opacity:1;stroke:none;font-family:Sans"
        xml:space="preserve"><tspan
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#803300;font-family:Accanthis ADF Std;-inkscape-font-specification:Accanthis ADF Std"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#0775a1;font-family:Copperplate Gothic Light;-inkscape-font-specification:Copperplate Gothic Light"
          y="738.89203"
          x="544.67706"
          id="tspan4078-0"
@@ -348,18 +348,15 @@
     <text
        sodipodi:linespacing="125%"
        id="text4080-5"
-       y="646.90863"
+       y="683.62524"
        x="380.38263"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#803300;fill-opacity:1;stroke:none;font-family:Accanthis ADF Std;-inkscape-font-specification:Accanthis ADF Std"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0775a1;fill-opacity:1;stroke:none;font-family:Accanthis ADF Std;-inkscape-font-specification:Accanthis ADF Std"
        xml:space="preserve"><tspan
-         y="646.90863"
+         y="683.62524"
          x="380.38263"
          sodipodi:role="line"
-         id="tspan4455">Wit's Brew</tspan><tspan
-         y="696.90863"
-         x="380.38263"
-         sodipodi:role="line"
-         id="tspan4469">Bollietaz Abbey</tspan></text>
+         id="tspan4469"
+         style="font-family:Copperplate Gothic Bold;-inkscape-font-specification:Copperplate Gothic Bold">Wit's Brew</tspan></text>
     <path
        style="fill:none;stroke:none"
        d="m 251.4729,493.12432 c 73.13154,-35.04638 155.91964,-44.19564 258.59905,0"
@@ -369,7 +366,7 @@
     <path
        id="path3872-8"
        d="m 380.32168,436.64949 c -59.71459,0 -110.49864,14.31145 -129.32005,34.28781 l -42.11897,0 0,274.2722 342.84781,0 0,-274.2722 -42.08874,0 c -18.8214,-19.97636 -69.60545,-34.28781 -129.32005,-34.28781 z"
-       style="fill:none;stroke:#803300;stroke-width:1.0629921;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:#0775a1;stroke-width:1.06299210000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:none"
@@ -378,7 +375,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csc" />
     <path
-       style="fill:none;stroke:#803300;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+       style="fill:none;stroke:#0775a1;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
        d="m 314.16154,234.26762 0,102.61607 68.13421,68.09665 67.83425,-67.79685 0,-102.91587 -0.0428,0 -67.74854,67.71119 -67.74854,-67.71119 -0.42852,0 z"
        id="rect3954-8"
        inkscape:connector-curvature="0" />
@@ -390,17 +387,17 @@
          id="text4111-8-6-0"
          y="330.85001"
          x="-407.31201"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#803300;fill-opacity:1;stroke:none;font-family:Accanthis ADF Std;-inkscape-font-specification:Accanthis ADF Std"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0775a1;fill-opacity:1;stroke:none;font-family:Accanthis ADF Std;-inkscape-font-specification:Accanthis ADF Std"
          xml:space="preserve"
          transform="scale(-1,1)"><tspan
-           style="font-size:48px;fill:#803300"
+           style="font-size:48px;fill:#0775a1"
            y="330.85001"
            x="-407.31201"
            id="tspan4113-6-0-1"
            sodipodi:role="line">J</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#803300;fill-opacity:1;stroke:none;font-family:Accanthis ADF Std;-inkscape-font-specification:Accanthis ADF Std"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0775a1;fill-opacity:1;stroke:none;font-family:Accanthis ADF Std;-inkscape-font-specification:Accanthis ADF Std"
          x="378.68799"
          y="340.04239"
          id="text4011-3-8-8"
@@ -409,7 +406,63 @@
            id="tspan4013-3-8-8"
            x="378.68799"
            y="340.04239"
-           style="font-size:48px;fill:#803300">J</tspan></text>
+           style="font-size:48px;fill:#0775a1">J</tspan></text>
     </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4080-5-1"
+       y="686.34387"
+       x="380.19553"
+       style="font-size:14.87061024px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0775a1;fill-opacity:1;stroke:none;font-family:Copperplate Gothic Light;-inkscape-font-specification:Copperplate Gothic Light"
+       xml:space="preserve"><tspan
+         y="686.34387"
+         x="380.19553"
+         sodipodi:role="line"
+         id="tspan4455-7" /><tspan
+         y="704.93213"
+         x="380.19553"
+         sodipodi:role="line"
+         id="tspan4469-4">a Bolliettaz Abbey's craft</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path3837"
+       sodipodi:cx="329.36566"
+       sodipodi:cy="568.67212"
+       sodipodi:rx="0.063744083"
+       sodipodi:ry="0.12748817"
+       d="m 329.42941,568.67212 a 0.06374408,0.12748817 0 1 1 -0.12749,0 0.06374408,0.12748817 0 1 1 0.12749,0 z"
+       transform="matrix(31.844335,0,0,11.328427,-10117.226,-5885.5359)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path3837-9"
+       sodipodi:cx="329.36566"
+       sodipodi:cy="568.67212"
+       sodipodi:rx="0.063744083"
+       sodipodi:ry="0.12748817"
+       d="m 329.42941,568.67212 a 0.06374408,0.12748817 0 1 1 -0.12749,0 0.06374408,0.12748817 0 1 1 0.12749,0 z"
+       transform="matrix(31.844335,0,0,11.328427,-10094.666,-5886.1519)" />
+    <path
+       style="fill:#0775a1;stroke:none"
+       d="m 345.46104,615.23715 c 0,0 -3.69716,1.52985 -5.19514,5.32263 -0.41526,1.05141 -5.52183,16.11783 -4.6812,17.89714 0.58485,1.23792 2.93098,0.93888 4.42623,0.95767 10.67448,0.0111 9.98092,0.0623 18.16706,-0.11405 6.94811,-0.25497 6.3084,-4.16651 6.3084,-4.16651 z"
+       id="path3877"
+       inkscape:connector-curvature="0"
+       transform="translate(0,2.5390623e-6)"
+       sodipodi:nodetypes="csscccc" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3879"
+       width="9.3066359"
+       height="5.2270145"
+       x="385.00519"
+       y="635.03156" />
+    <path
+       style="fill:#0775a1;stroke:none"
+       d="m 390.29466,633.26532 -1.90198,3.42171 c 0,0 -0.95616,3.13252 2.48602,3.00504 3.44218,-0.12749 32.43105,-0.25498 32.43105,-0.25498 0,0 5.56043,-0.51902 5.17796,-5.23608 -0.38246,-4.71706 0.76493,-18.35829 -2.80474,-21.29052 -2.05547,-2.21318 -4.2093,-3.20284 -6.88436,-4.3346 z"
+       id="path3882"
+       inkscape:connector-curvature="0"
+       transform="translate(0,2.5390623e-6)"
+       sodipodi:nodetypes="ccscsccc" />
   </g>
 </svg>
